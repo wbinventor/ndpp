@@ -21,7 +21,7 @@ DEBUG    = no
 PROFILE  = no
 OPTIMIZE = no
 NATIVE   = no
-OPENMP   = no
+OPENMP   = yes
 MPI      = no
 HDF5     = no
 
