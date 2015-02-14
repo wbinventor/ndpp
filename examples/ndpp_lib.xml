@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ndpp_lib>
+  <directory> /home/wboyd/Documents/NSE-CRPG-Codes/ndpp/examples/  </directory>
+  <filetype> binary </filetype>
+  <entries> 866  </entries>
+  <nuscatter> true </nuscatter>
+  <chi_present> true </chi_present>
+  <scatt_type> 0 </scatt_type>
+  <scatt_order> 5 </scatt_order>
+  <print_tol> 1.00000E-10 </print_tol>
+  <thin_tol> 0.0 </thin_tol>
+  <mu_bins> 1001 </mu_bins>
+  <energy_bins>
+  0.000000000000E+00  6.250000000000E-07  2.000000000000E+01
+  </energy_bins>
+
+  <ndpp_table alias="H-1.71c" awr="0.999167" location="1" name="1001.71c" path="1001.71c.g2" temperature="2.53000E-08" zaid="1001" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="H-2.71c" awr="1.99680" location="1" name="1002.71c" path="1002.71c.g2" temperature="2.53000E-08" zaid="1002" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="H-3.71c" awr="2.98960" location="1" name="1003.71c" path="1003.71c.g2" temperature="2.53000E-08" zaid="1003" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="He-3.71c" awr="2.98903" location="1" name="2003.71c" path="2003.71c.g2" temperature="2.53000E-08" zaid="2003" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="He-4.71c" awr="3.96822" location="1" name="2004.71c" path="2004.71c.g2" temperature="2.53000E-08" zaid="2004" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="Li-6.71c" awr="5.96340" location="1" name="3006.71c" path="3006.71c.g2" temperature="2.53000E-08" zaid="3006" freegas_cutoff="1.01204E-05"/>
+  <ndpp_table alias="Li-7.71c" awr="6.95573" location="1" name="3007.71c" path="3007.71c.g2" temperature="2.53000E-08" zaid="3007" freegas_cutoff="1.01204E-05"/>
